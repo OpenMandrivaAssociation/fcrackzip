@@ -31,3 +31,10 @@ A zip password cracker.
 %{_bindir}/%{name}
 %{_mandir}/man1/%{name}.1.*
 
+
+
+%changelog
+* Thu Feb 23 2012 Andrey Bondrov <abondrov@mandriva.org> 1.0-1
++ Revision: 779345
+- imported package fcrackzip
+
