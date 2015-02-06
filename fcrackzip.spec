@@ -1,6 +1,6 @@
 Name:		fcrackzip
 Version:	1.0
-Release:	%mkrel 1
+Release:	2
 Summary:	A zip password cracker
 License:	GPLv2
 Group:		File tools
