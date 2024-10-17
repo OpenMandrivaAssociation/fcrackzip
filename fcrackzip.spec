@@ -4,7 +4,7 @@ Release:	2
 Summary:	A zip password cracker
 License:	GPLv2
 Group:		File tools
-URL:		http://oldhome.schmorp.de/marc/fcrackzip.html
+URL:		https://oldhome.schmorp.de/marc/fcrackzip.html
 Source:		http://oldhome.schmorp.de/marc/data/%{name}-%{version}.tar.gz
 Requires:	unzip
 
